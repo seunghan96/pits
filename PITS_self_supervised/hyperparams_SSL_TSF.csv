@@ -1,0 +1,8 @@
+data,d_model,context_points,patch_len,ep_ft_head
+etth1,128,512,12,5
+etth2,128,512,12,5
+ettm1,64,768,18,5
+ettm2,64,1024,24,5
+weather,128,768,24,30
+traffic,256,768,24,20
+electricity,256,1024,32,30

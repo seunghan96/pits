@@ -1,0 +1,5 @@
+data,dim,ep_pretrain,ep_finetune_head,patch_size,aggregate,ts_length,num_classes
+Epilepsy,64,20,300,8,max,178,2
+FD_B,128,60,2000,8,avg,5120,3
+Gesture,128,20,100,16,concat,315,8
+EMG,64,100,3000,8,max,1500,3
