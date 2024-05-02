@@ -4,9 +4,11 @@
 
 <br>
 
-This repository contains the official implementation for the paper [Patch Independence for Time Series](https://arxiv.org/abs/xxxxx) 
+This repository contains the official implementation for the paper [Patch Independence for Time Series]([https://arxiv.org/abs/xxxxx](https://arxiv.org/abs/2312.16427)) 
 
-This work is accepted in [NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice](https://sslneurips23.github.io/), and has been selected for an oral presentation.
+This work is accepted in 
+- [ICLR 2024](https://openreview.net/forum?id=WS7GuBDFa2)
+- [NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice](https://sslneurips23.github.io/), and has been selected for an oral presentation.
 
 <br>
 
