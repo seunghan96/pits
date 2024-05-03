@@ -4,7 +4,7 @@
 
 <br>
 
-This repository contains the official implementation for the paper [Patch Independence for Time Series]([[https://arxiv.org/abs/xxxxx](https://arxiv.org/abs/2312.16427)](https://arxiv.org/abs/2312.16427)) 
+This repository contains the official implementation for the paper [Patch Independence for Time Series](https://arxiv.org/abs/2312.16427)
 
 This work is accepted in 
 - [ICLR 2024](https://openreview.net/forum?id=WS7GuBDFa2)
